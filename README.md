@@ -1,7 +1,3 @@
-Вот пример короткого и аккуратного README на английском для твоего проекта:
-
----
-
 # Business Statistics & Analytics Solutions in Python
 
 This repository contains **Python solutions** for exercises from the book:
@@ -18,13 +14,6 @@ This repository contains **Python solutions** for exercises from the book:
     2_1.ipynb
 ...
 ```
-
-## ⚡ Features
-
-* Step-by-step solutions to textbook exercises
-* Visualizations where applicable
-* Hypothesis testing examples (t-test, chi-square, ANOVA)
-* Practical business examples
 
 ## 📖 Notes
 
